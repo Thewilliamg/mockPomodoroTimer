@@ -6,7 +6,7 @@ import Home from "./page"
 const inter = Inter({ subsets: ["latin"] });
 //aqui empieza
 export const metadata: Metadata = {
-  title: "Mi mock UIS",
+  title: "Mi Pomodoro",
   description: "By William",
 };
 
